@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/14 15:49:18.000.360,=C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 18:04:10.000.761,=C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/16 14:22:52.000.349,=C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 07:51:54.000.007,=C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 07:52:31.000.172,C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\francelin\Desktop\DelphiExe\UPrincipal.pas</Transaction>
+    <Transaction>2022/04/12 07:52:31.000.172,C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\francelin\Desktop\DelphiExe\UPrincipal.dfm</Transaction>
+    <Transaction>2022/04/12 07:53:11.000.426,C:\Users\francelin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\francelin\Desktop\DelphiExe\TesteWK.dproj</Transaction>
+    <Transaction>2022/04/12 07:53:33.000.668,=C:\Users\francelin\Desktop\DelphiExe\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 07:54:04.000.834,C:\Users\francelin\Desktop\DelphiExe\Unit1.dfm=C:\Users\francelin\Desktop\DelphiExe\UDM.dfm</Transaction>
+    <Transaction>2022/04/12 07:54:04.000.834,C:\Users\francelin\Desktop\DelphiExe\Unit1.pas=C:\Users\francelin\Desktop\DelphiExe\UDM.pas</Transaction>
+    <Transaction>2022/04/12 14:49:45.000.293,=C:\Users\francelin\Desktop\DelphiExe\Unit1.pas</Transaction>
+    <Transaction>2022/04/12 14:50:13.000.057,C:\Users\francelin\Desktop\DelphiExe\Unit1.dfm=C:\Users\francelin\Desktop\DelphiExe\UPrincipalItens.dfm</Transaction>
+    <Transaction>2022/04/12 14:50:13.000.057,C:\Users\francelin\Desktop\DelphiExe\Unit1.pas=C:\Users\francelin\Desktop\DelphiExe\UPrincipalItens.pas</Transaction>
+  </Transactions>
+</BorlandProject>
